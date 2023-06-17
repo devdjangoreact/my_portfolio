@@ -103,7 +103,7 @@ body .resume-wrapper section {
   padding: 0;
   position: relative;
   float: left;
-  padding: 5rem 3rem;
+  padding: 3rem 3rem;
 }
 body .resume-wrapper section p {
   font-size: 12px;
@@ -114,9 +114,20 @@ body .resume-wrapper section dl dt {
   font-size: 12px;
   line-height: 1rem;
 }
-body .resume-wrapper section dl.intro {
-  padding: 0.5em;
+
+body .resume-wrapper section ul.intro-edit {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: small;
+  margin-top: 15;
+  padding: 0;
+  font-weight: bold;
+  list-style: none;
 }
+/* body .resume-wrapper section dl.intro {
+  padding: 0.5em;
+} */
 body .resume-wrapper section dl.intro dt {
   float: left;
   clear: left;
