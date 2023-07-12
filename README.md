@@ -1,4 +1,4 @@
-![Header](https://github.com/antonnevero/antonnevero/blob/main/assets/banner.png)
+![Header](https://github.com/antonnevero/antonnevero/blob/main/assets/my-banner.png)
 
 ## Junior DevOps Engineer | AWS Certified Solutions Architect | Like To Build Cloud Automation & Make CI/CD Pipelines
 
@@ -17,3 +17,4 @@
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000?style=plastic&logo=telegram&logoColor=eaed0b)](https://t.me/anton_nevero)
 [![EMAIL](https://img.shields.io/badge/-EMAIL-000000?style=plastic&logo=gmail&logoColor=eaed0b)](mailto:nevero.anton@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-000000?style=plastic&logo=linkedin&logoColor=eaed0b)](https://www.linkedin.com/in/anton-nevero/)
+ 
