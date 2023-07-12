@@ -14,7 +14,7 @@
 ![MYSQL](https://img.shields.io/badge/-SQL-000000?style=plastic&logo=mysql&logoColor=eaed0b)
 
 ### Contact me
-[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000?style=plastic&logo=telegram&logoColor=eaed0b)](https://t.me/anton_nevero)
-[![EMAIL](https://img.shields.io/badge/-EMAIL-000000?style=plastic&logo=gmail&logoColor=eaed0b)](mailto:nevero.anton@gmail.com)
-[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-000000?style=plastic&logo=linkedin&logoColor=eaed0b)](https://www.linkedin.com/in/anton-nevero/)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000?style=plastic&logo=telegram&logoColor=eaed0b)](https://web.telegram.org/k/#@dimaslvk)
+[![EMAIL](https://img.shields.io/badge/-EMAIL-000000?style=plastic&logo=gmail&logoColor=eaed0b)](mailto:devdjangoreact@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-000000?style=plastic&logo=linkedin&logoColor=eaed0b)](https://www.linkedin.com/in/dmytro-solovka/)
  
